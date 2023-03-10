@@ -28,3 +28,7 @@
 img{  
     width: 100%;
 }
+table{
+    align-items: center;
+    border="1" width="70%"
+}
