@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Escritorio/batman/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M8_TheBatman"
+	}
+}
