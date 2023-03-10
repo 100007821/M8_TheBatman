@@ -1,4 +1,16 @@
-body header{
+
+body{
+    font-family: 'Golos Text', sans-serif;
+    font-family: 'Shantell Sans', cursive;
+    font-family: 'Source Sans Pro', sans-serif;
+    max-width: 35%;
+    margin: 0 auto;
+    font-family:'Source Sans Pro', sans-serif;
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
     width: 93%;
     height: 100vh;
     color: white;
@@ -12,19 +24,6 @@ body header{
     padding: 50px;
     text-align: center;
     font-weight: bold;
-    font-size: 30px;
-}
-body{
-    font-family: 'Golos Text', sans-serif;
-    font-family: 'Shantell Sans', cursive;
-    font-family: 'Source Sans Pro', sans-serif;
-    max-width: 35%;
-    margin: 0 auto;
-    font-family:'Source Sans Pro', sans-serif;
-}
-
-div{
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 30px;
 }
 .video{
